@@ -1,0 +1,1 @@
+curl -F "demographicDatabase=@demographics.csv" -F "network00network00existing11networks=@network/network/existing networks.zip" -F "metric00demand1122household3300household11unit11demand11per11household11per11year=150" http://127.0.0.1:3160/scenarios -b cookies.txt
